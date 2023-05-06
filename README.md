@@ -29,7 +29,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 壹：{{birthday1.DATA}} 
 
 
-贰：{{note_en.DATA}} 
+
 贰：{{note_ch.DATA}}
 
 
