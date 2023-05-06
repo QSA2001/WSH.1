@@ -26,12 +26,12 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
  
 
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
+壹：{{birthday1.DATA}} 
+壹：{{birthday2.DATA}}
 
 
-{{note_en.DATA}} 
-{{note_ch.DATA}}
+贰：{{note_en.DATA}} 
+贰：{{note_ch.DATA}}
 
 
 天气key生成教程
